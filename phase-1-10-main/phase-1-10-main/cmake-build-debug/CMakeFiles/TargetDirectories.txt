@@ -1,0 +1,3 @@
+/home/user123/Desktop/DSMonsoon22/phase-1-10/cmake-build-debug/CMakeFiles/BPTree.dir
+/home/user123/Desktop/DSMonsoon22/phase-1-10/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/user123/Desktop/DSMonsoon22/phase-1-10/cmake-build-debug/CMakeFiles/rebuild_cache.dir
